@@ -1,16 +1,13 @@
-### Hi there 👋
+### 👋 Hi there, I'm Uche Okoro. I am a novice data analyst 
 
-<!--
-**uclint/uclint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on a Power Bi dashboard to show premier league stats and help in making FPL decisions
+- 🌱 I’m currently learning R programming Language
+- 👯 I’m looking to collaborate with data enthusiasts
+- 🤔 I'm new to the data field and I’m looking for help with mentoring and working with a group on data projects
+- 💬 Ask me about anything including any of my projects
+- 📫 How to reach me: linkedin.com/in/uclinton, Instagram: Uc_gram
+- 😄 Pronouns: Him
+- ⚡ Fun fact: I listen to a lot of podcast and end up doing nothing :)
 -->
+
+I have attached some of my projects below. I am looking to make new connections so feel free to reach me.
