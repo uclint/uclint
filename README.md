@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate with data enthusiasts
 - 🤔 I'm new to the data field and I’m looking for help with mentoring and working with a group on data projects
 - 💬 Ask me about anything including any of my projects
-- 📫 How to reach me: linkedin.com/in/uclinton, Instagram: Uc_gram
+- 📫 How to reach me: linkedin.com/in/uclinton
 - 😄 Pronouns: Him
 - ⚡ Fun fact: I listen to a lot of podcast and end up doing nothing :)
 -->
