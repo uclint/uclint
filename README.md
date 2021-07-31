@@ -7,7 +7,7 @@
 - 💬 Ask me about anything including any of my projects
 - 📫 How to reach me: linkedin.com/in/uclinton
 - 😄 Pronouns: Him
-- ⚡ Fun fact: I listen to a lot of podcast and end up doing nothing :)
+- ⚡ Fun fact: I listen to a lot of podcast and end up not doing anything :)
 -->
 
 I have attached some of my projects below. I am looking to make new connections so feel free to reach me.
