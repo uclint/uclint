@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Uche. I am a novice data analyst 
 
-- 🔭 I’m currently working on a Power Bi dashboard to show premier league stats and help in making FPL decisions
+- 🔭 I’m currently working on a Power Bi dashboard to show premier league stats that help in making fantasy premier league decisions
 - 🌱 I’m currently learning R programming Language
 - 👯 I’m looking to collaborate with data enthusiasts
 - 🤔 I'm new to the data field and I’m looking for help with mentoring and working with a group on data projects
